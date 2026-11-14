@@ -56,6 +56,10 @@ export default {
         rose: "hsl(var(--rose))",
         gold: "hsl(var(--gold))",
         cream: "hsl(var(--cream))",
+        cta: {
+          DEFAULT: "hsl(var(--cta))",
+          foreground: "hsl(var(--cta-foreground))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
